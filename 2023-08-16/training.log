@@ -1,0 +1,22 @@
+1.familiarizing ast library :
+	1.literal_eval
+	2.parse
+	3.dump
+	4.walk
+	5.FuntionDef
+2.urllib package:
+	1.request
+	2.response
+	3.parse
+	4.error
+3.base64 library:
+	1.encode
+	2.decode
+4.js2py library
+5.cloudscraper library
+6.xml
+7.lxml
+8.logging
+9.os
+	
+
